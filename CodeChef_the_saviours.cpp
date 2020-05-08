@@ -13,7 +13,7 @@ int main() {
 	    for(i=0;i<str.length();i++) {
 	      if(str[i]=='0') {
 	          if(s.top()==0) {
-	             // cout<<"NO"<<endl;
+	         
 	              flag=0;
 	             
 	          }
