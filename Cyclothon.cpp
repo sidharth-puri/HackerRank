@@ -22,8 +22,8 @@ int main() {
 	      }
 	      count++;
 	    }
-	    if(flag==0){
-	        if(count>1){
+	    if(flag==0) {
+	        if(count>1) {
 	            cout<<b<<endl;
 	        }
 	        else 
